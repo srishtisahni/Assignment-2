@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Assignment 2 - 10514802716</string>
+    <string name="heading">ETCS - 405\nWireless Communication</string>
+    <string name="comments">Comments</string>
+    <string name="download">Download</string>
+    <string name="time">Time (ms): </string>
+    <string name="GPSAlertDialogTitle">Allow Location Access</string>
+    <string name="GPSAlertDialogMessage">Allow the application to access your Location?</string>
+    <string name="action_settings">Allow</string>
+    <string name="cancel">Cancel</string>
+</resources>
